@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"><link href="https://static.amebaowndme.com/madrid-frontend/libs/angular-ui-router-anim-in-out/css/anim-in-out-06d68bfd10.min.css" rel="stylesheet" type="text/css" media="screen" charset="utf-8"/>
+    <link href="https://static.amebaowndme.com/madrid-frontend/libs/ngDialog/css/ngDialog-7708e77431.min.css" rel="stylesheet" type="text/css" media="screen" charset="utf-8"/>
+    <link href="https://static.amebaowndme.com/madrid-frontend/css/manage-df2ab40528.min.css" rel="stylesheet"/>
+    <title>Ameba Ownd</title>
+
+<link rel="icon" href="https://static.amebaowndme.com/madrid-frontend/images/app/common/favicon.ico">
+    <script>
+      
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+    </script>
+    <script>
+      !function(e,t,n,c,r,u,s){e.USERDIVEObject=r,e[r]=e[r]||function(){(e[r].queue=e[r].queue||[]).push(arguments)},
+      u=t.createElement(n),s=document.getElementsByTagName(n)[0],u.async=1,u.src=c,s.parentNode.insertBefore(u,s)
+      }(window,document,"script","//harpoon3.userdive.com/static/UDTracker.js?" + new Date().getTime(),"udt");
+      udt('create', '81-218', { 'domain': 'amebaownd.com'});
+    </script>
+
+  </head>
+  <body id="body" ng-controller="MdrdManageRootViewCtrl as rootView" ng-style="rootView.style" class="no-scroll">
+    <noscript>
+      <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PXK9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-PXK9MM');
+    </script>
+
+    <div ui-view="root"></div>
+    <img src="//sy.ameblo.jp/sync/?org=sy.amebaownd.com" style="display: none;" width="1" height="1">
+    
+    <script>
+      window.mdrdFacebookAppId = "522776621188656"
+      window.mdrdConfig = {
+  "serverTime": "2026-06-13T12:27:34Z"
+};
+      if (!window.mdrdConfig) {window.mdrdConfig = {};}
+      window.mdrdConfig.domainType = 'manage';
+      
+    </script>    <script src="https://static.amebaowndme.com/madrid-frontend/js/manage-cc72a64511.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="//js.stripe.com/v3/" type="text/javascript" charset="utf-8" async></script>
+  </body>
+</html>
