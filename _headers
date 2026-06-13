@@ -1,0 +1,7 @@
+# HTMLは常に最新を取得（キャッシュで古い版が出るのを防ぐ）
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# ハッシュ付きの静的アセットは長期キャッシュ（不変）
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
