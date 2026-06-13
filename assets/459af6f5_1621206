@@ -1,0 +1,599 @@
+<!doctype html>
+<html ⚡ lang="ja">
+<head>
+  <meta charset="utf-8">
+<link rel="canonical" href="https://www.saint-malo1983.com/posts/1621206/" >
+<link rel="icon" href="https://static.amebaowndme.com/madrid-frontend/images/app/common/favicon.ico">
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjapanese.css">
+<title>ランチタイムのお知らせ | Saint Malo</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script async custom-element="amp-app-banner" src="https://cdn.ampproject.org/v0/amp-app-banner-0.1.js"></script>
+<meta name="apple-itunes-app" content="app-id=911640835, amebaownd://public/sites/227382/posts/1621206">
+<link rel="manifest" href="https://static.amebaowndme.com/madrid-static/amp/appBanner/config/manifest.json">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+  <style amp-custom>
+    body {
+    font-family: "Helvetica neue", Arial, Roboto, "Droid Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, sans-serif;
+    }
+    article {
+    max-width: 600px;
+    margin: 0 auto;
+    }
+    .img-header {
+    margin: 0;
+    position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid #eee;
+    }
+    header .txt-header-site-name {
+    margin: 0px;
+    padding: 20px;
+    color: #333;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Noto Sans Japanese';
+    }
+    header .img-header {
+    min-height: 60px;
+    }
+    .txt-header {
+    text-align: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid #eee;
+    }
+    amp-img.amp-header {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    }
+    hr {
+    border: none;
+    border-top: 1px solid #eee;
+    }
+    a[href] {
+    text-decoration: none;
+    color: #3dc49d;
+    }
+    .blog-title {
+    font-family: 'Noto Sans Japanese';
+    font-weight:400;
+    margin: 30px 20px 10px 20px;
+    font-size: 28px;
+    line-height: 1.6;
+    word-break: break-word;
+    }
+    .blog-title a {
+    color: #333;
+    }
+    .pub-date {
+    color: #999;
+    font-size: 12px;
+    padding: 0 20px;
+    margin-bottom: 12px;
+    }
+    body {
+    -webkit-appearance: none;
+    -moz-appearance:    none;
+    text-decoration: none;
+    background-color: white;
+    word-break: break-word;
+    }
+    .blog-contents > *,
+    .blog-contents > .amp-quote-block {
+    margin-top: 18px;
+    }
+    .blog-contents > p,
+    .blog-contents > div,
+    .blog-contents > blockquote,
+    .blog-contents > ul,
+    .blog-contents > ol,
+    .blog-contents > div,
+    .blog-contents > span {
+    margin: 5px 20px;
+    }
+    .blog-contents > h1 {
+    margin: 1px 20px;
+    font-size: 1.7em;
+    }
+    .blog-contents > h2 {
+    margin: 2px 20px;
+    font-size: 1.5em;
+    }
+    .blog-contents > h3 {
+    margin: 3px 20px;
+    font-size: 1.17em;
+    }
+    .blog-contents > h4 {
+    margin: 4px 20px;
+    font-size: 1em;
+    }
+    .blog-contents {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #333;
+    }
+    .blog-contents amp-img + amp-img,
+    .blog-contents amp-img + amp-youtube,
+    .blog-contents amp-img + amp-vimeo,
+    .blog-contents amp-img + amp-quote,
+    .blog-contents amp-youtube + amp-youtube,
+    .blog-contents amp-youtube + amp-img,
+    .blog-contents amp-youtube + amp-vimeo,
+    .blog-contents amp-youtube + amp-quote,
+    .blog-contents amp-vimeo + amp-vimeo,
+    .blog-contents amp-vimeo + amp-img,
+    .blog-contents amp-vimeo + amp-youtube,
+    .blog-contents amp-vimeo + amp-quote,
+    .blog-contents amp-quote + amp-quote,
+    .blog-contents amp-quote + amp-img,
+    .blog-contents amp-quote + amp-youtube,
+    .blog-contents amp-quote + amp-vimeo,
+    {
+    margin-top: 20px;
+    }
+    .blog-contents amp-img,
+    .blog-contents amp-youtube,
+    .blog-contents amp-vimeo {
+    margin: 18px 0;
+    }
+    .blog-contents amp-twitter,
+    .blog-contents amp-instagram {
+    margin: 18px 20px;
+    }
+    .text-align-right {
+    text-align: right;
+    }
+    .text-align-left {
+    text-align: left;
+    }
+    .text-align-center {
+    text-align: center;
+    }
+    .list-style-position-inside {
+    list-style-position: inside;
+    }
+    .social-box {
+    display: block;
+    text-align: left;
+    }
+    .social-box {
+    margin: 0 20px 50px 20px;
+    }
+    amp-social-share {
+    margin-right: 10px;
+    }
+    amp-social-share[type=twitter] {
+    background: url(https://static.amebaowndme.com/madrid-static/amp/social_share_logo/tw_2x.png) no-repeat center center;
+    background-size: 35px;
+    }
+    amp-social-share[type=facebook] {
+    background: url(https://static.amebaowndme.com/madrid-static/amp/social_share_logo/fb_2x.png) no-repeat center center;
+    background-size: 35px;
+    }
+    amp-social-share[type=line] {
+    background: url(https://static.amebaowndme.com/madrid-static/amp/social_share_logo/line_2x.png) no-repeat center center;
+    background-size: 35px;
+    }
+    amp-social-share[type=nanagogo] {
+    background: url(https://static.amebaowndme.com/madrid-static/amp/social_share_logo/755_2x.png) no-repeat center center;
+    background-size: 35px;
+    }
+    .related-links-head {
+    margin: 10px 20px 0px 20px;
+    padding: 3px 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    border-top: 1px solid #333;
+    }
+    .related-link-href {
+    text-decoration: none;
+    }
+    .related-link {
+    display: flex;
+    min-height: 120px;
+    vertical-align: top;
+    padding: 15px 0;
+    margin: 0 20px;
+    border-top: 1px solid #eee;
+    }
+    .related-link-txt {
+    vertical-align: top;
+    flex: 1;
+    text-align: left;
+    }
+    .related-link-txt-title {
+    margin:0;
+    padding-right: 20px;
+    font-size: 14px;
+    color: #333;
+    }
+    .related-link-txt-pubdate {
+    color: #999;
+    font-size: 12px;
+    padding: 8px 0 0;
+    }
+    .related-link-img {
+    margin: 0;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    }
+    .related-link-img img {
+    object-fit: cover;
+    }
+    .amp-quote-block {
+    margin: 20px;
+    }
+    .amp-quote {
+    display: flex;
+    min-height: 120px;
+    border: 1px solid #eee;
+    }
+    .amp-quote-txt {
+    margin: 10px;
+    vertical-align: top;
+    flex: 1;
+    text-align: left;
+    }
+    .amp-quote-txt-title {
+    margin: 0;
+    color: #333;
+    font-size: 12px;
+    }
+    .amp-quote-img {
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    }
+    .amp-quote-img > amp-img {
+    margin: 0;
+    }
+    .amp-quote-img img {
+    object-fit: cover;
+    }
+    footer {
+    background-color: #fafafa;
+    }
+    .custom-copyright {
+    color: #666;
+    min-height: 80px;
+    text-align: center;
+    border-top: 1px solid #eee;
+    }
+    .custom-copyright-text {
+    padding: 40px 20px 20px 20px;
+    font-size: 12px;
+    position: relative;
+    }
+    .powered-by__link {
+    padding: 0px 20px 40px 20px;
+    font-size: 10px;
+    position: relative;
+    text-align: center;
+    }
+    .powered-by-amebaownd-link {
+    background-color: #fff;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+    padding: 0 14px;
+    width: 250px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    }
+    .powered-by__text {
+    color: #7d8b88;
+    }
+    .powered-by__logo {
+    display: inline-block;
+    background-image: url(https://static.amebaowndme.com/madrid-static/amp/design/footerlogo@2x.png);
+    background-repeat: no-repeat;
+    background-size: 45px 13.5px;
+    width: 45px;
+    height: 18px;
+    vertical-align: middle;
+    }
+    amp-app-banner {
+      border: #eee solid 1px;
+      background-color: #fff;
+      height: 80px;
+    }
+    amp-app-banner .content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    amp-app-banner amp-img {
+      background-color: transparent;
+      margin: 10px
+    }
+    amp-app-banner .description {
+      margin-right: 10px;
+    }
+    amp-app-banner h5 {
+      color: #333;
+      font-family: "Hiragino Sans";
+      font-weight: 600;
+      font-size:   12px;
+      margin: 0;
+      padding-top: 20px;
+    }
+    amp-app-banner p {
+      color: #999;
+      font-family: "Hiragino Sans";
+      font-weight: 300;
+      font-size:   12px;
+      margin-top: 5px;
+      margin-bottom: 20px;
+    }
+    amp-app-banner .actions button {
+      background-color: #3dc49d;
+      color:    #fff;
+      font-family: "Hiragino Sans";
+      font-weight: 300;
+      font-size:   12px;
+      border: none;
+      margin-right: 10px;
+      height: 40px;
+      border-radius: 2px
+    }
+    amp-app-banner .actions {
+      text-align: center;
+    }
+
+</style>
+
+  <script type="application/ld+json">
+   {"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","id":"https://www.saint-malo1983.com/posts/1621206"},"headline":"ランチタイムのお知らせ","image":{"@type":"ImageObject","url":"https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/227382/f443f51a434a672ad84e8fb8d9ec8e05_ed36c8810ce6e3b30532c376d5a54552.jpg","height":1500,"width":2000},"datePublished":"Mon, 23 Mar 2020 18:21:57 +0000","dateModified":"Wed, 15 Apr 2020 20:33:18 +0000","author":{"@type":"Person","name":"喫茶サンマロー","url":""},"publisher":{"@type":"Organization","name":"Ameba Ownd","logo":{"@type":"ImageObject","url":"https://static.amebaowndme.com/madrid-static/amp/design/ownd_logo.png","width":160,"height":60}},"description":"ランチタイム\n平日　１１：３０～１４：００\n土日　１２：００..."}
+  </script>
+</head>
+<body>
+  <amp-app-banner layout="nodisplay" id="ownd-amp-app-banner">
+  <div class="content">
+    <amp-img src="https://static.amebaowndme.com/madrid-static/amp/appBanner/img/ios-icon.jpg"
+             width="40" height="40"></amp-img>
+    <div class="description">
+      <h5>Ameba Ownd</h5>
+      <p>アプリで簡単、無料ホームページ作成</p>
+    </div>
+    <div class="actions">
+      <button open-button>
+        アプリを
+        <br>
+        ダンロード
+      </button>
+    </div>
+  </div>
+</amp-app-banner>
+
+  <amp-analytics type="googleanalytics" id="analytics_ownd">
+    <script type="application/json">
+        {
+            "vars": {
+                "account": "UA-56421123-1"
+            },
+            "triggers": {
+                "trackPageviewWithAmpdocUrl": {
+                    "on": "visible",
+                    "request": "pageview",
+                    "vars": {
+                        "title": "ランチタイムのお知らせ | Saint Malo",
+                        "documentLocation": "https:\/\/www.saint-malo1983.com\/posts\/1621206\/?ao_amp=true"
+                    }
+                },
+                "trackClickOnHeader": {
+                    "selector": ".amp-header-title",
+                    "on": "click",
+                    "request": "event",
+                    "vars": {
+                        "eventLabel": "https:\/\/www.saint-malo1983.com\/posts\/1621206\/",
+                        "eventCategory": "visitor-activities",
+                        "eventAction": "amp-tap-title"
+                    }
+                },
+                "trackClickOnRelatedLink": {
+                    "selector": ".related-link-href",
+                    "on": "click",
+                    "request": "event",
+                    "vars": {
+                        "eventLabel":"${relatedId}",
+                        "eventCategory": "visitor-activities",
+                        "eventAction": "amp-tap-related-articles"
+                    }
+                },
+                "trackClickOnShareLink" : {
+                    "on": "click",
+                    "selector": "amp-social-share",
+                    "request": "social",
+                    "vars": {
+                        "socialNetwork": "${socialNetwork}",
+                        "socialAction": "${socialAction}",
+                        "socialTarget": "https:\/\/www.saint-malo1983.com\/posts\/1621206\/"
+                    }
+                },
+                "trackClickOnAppBannerButton" : {
+                    "on" : "click",
+                    "selector" : "amp-app-banner .actions button",
+                    "request" : "event",
+                    "vars": {
+                        "eventLabel":"$https:\/\/www.saint-malo1983.com\/posts\/1621206\/",
+                        "eventCategory": "visitor-activities",
+                        "eventAction": "amp-tap-app-banner-button"
+                    }
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+
+
+
+  <header>
+      
+	<div class="txt-header">
+		<a href="https://www.saint-malo1983.com" class="amp-header-title">
+			<h2 class="txt-header-site-name">Saint Malo</h2>
+		</a>
+	</div>
+  </header>
+  <article>
+    <h1 class="blog-title"><a href="https://www.saint-malo1983.com/posts/1621206/">ランチタイムのお知らせ</a></h1>
+    <div class="pub-date">
+      2020.03.23 18:21
+    </div>
+    <div class="blog-contents">
+      <p><b>ランチタイム</b></p><p>平日　１１：３０～１４：００</p><p>土日　１２：００〜１４：００</p><p>トラジャブレンドまたは紅茶付き<br/></p><p><br/></p><p>ご来店を心よりお待ちしております。</p><p><br/></p>
+			<amp-img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/227382/f443f51a434a672ad84e8fb8d9ec8e05_ed36c8810ce6e3b30532c376d5a54552.jpg?width=960" width="2000" height="1500" layout="responsive"></amp-img>
+		
+
+			<amp-img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/227382/a29771dd3b475af771e689e5e9ba0690_204dbb34e8945eead38ea69ef10bb6c4.jpg?width=960" width="2000" height="1346" layout="responsive"></amp-img>
+		
+
+			<amp-img src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/227382/3c5d2740f70f2c1de1312f5be3a66313_18b962054eb5375ae01628f7b65ae2a6.jpg?width=960" width="1500" height="2000" layout="responsive"></amp-img>
+		
+
+    </div>
+    <div class="social-box">
+        <amp-social-share type="twitter"
+                          width="35" height="35"
+                          data-param-text="ランチタイムのお知らせ"
+                          data-vars-social-network="Twitter"
+                          data-vars-social-action="Tweet"
+                ></amp-social-share>
+        <amp-social-share type="facebook"
+                          width="35" height="35"
+                          data-param-text="ランチタイムのお知らせ"
+                          data-param-href="https://www.saint-malo1983.com/posts/1621206/"
+                          data-param-app_id="522776621188656"
+                          data-vars-social-network="Facebook"
+                          data-vars-social-action="Share"
+                ></amp-social-share>
+        <amp-social-share type="line"
+                          width="35" height="35"
+                          data-param-url="https://www.saint-malo1983.com/posts/1621206/"
+                          data-share-endpoint="http://line.me/R/msg/text/?ランチタイムのお知らせ"
+                          data-vars-social-network="LINE"
+                          data-vars-social-action="Send"
+                ></amp-social-share>
+        <amp-social-share type="nanagogo"
+                          width="35" height="35"
+                          data-share-endpoint="https://7gogo.jp/share?url=https://www.saint-malo1983.com/posts/1621206/&text=ランチタイムのお知らせ"
+                ></amp-social-share>
+
+    </div>
+    
+      <aside class="related-links">
+  <h2 class="related-links-head">関連記事</h2>
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/55662443" class="related-link-href" id="1" data-vars-related-id="1">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年11月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.10.29 03:31 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/55495934" class="related-link-href" id="2" data-vars-related-id="2">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年10月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.10.02 22:38 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/55117319" class="related-link-href" id="3" data-vars-related-id="3">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年09月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.08.29 00:53 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/54910083" class="related-link-href" id="4" data-vars-related-id="4">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年08月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.08.07 15:37 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/54470167" class="related-link-href" id="5" data-vars-related-id="5">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年07月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.07.07 11:15 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+    
+      <a href="https://www.saint-malo1983.com/posts/54026130" class="related-link-href" id="6" data-vars-related-id="6">
+        <div class="related-link">
+          <div class="related-link-txt">
+            <h4 class="related-link-txt-title">2024年06月の営業スケジュール</h4>
+            <div class="related-link-txt-pubdate">2024.06.06 14:40 </div>
+          </div>
+        </div>
+      </a>
+    
+  
+</aside>
+
+    
+  </article>
+  <footer>
+    <div class="custom-copyright">
+  <div class="custom-copyright-text">
+    
+      Copyright © 2016 Saint Malo
+    
+  </div>
+</div>
+
+    <div class="powered-by__link">
+      <a href="https://www.amebaownd.com" class="powered-by-amebaownd-link">
+        <span class="powered-by__text">Powered by</span>
+        <span class="powered-by__logo"></span>
+        <span class="powered-by__text">無料でホームページをつくろう</span>
+      </a>
+    </div>
+  </footer>
+</body>
+</html>

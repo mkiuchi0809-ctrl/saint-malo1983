@@ -1,0 +1,362 @@
+<!doctype html>
+
+            <html lang="ja" data-reactroot=""><head><meta charSet="UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0"/><title data-react-helmet="true">プレミアムプランご利用について | Ameba Ownd Help</title><link data-react-helmet="true" rel="canonical" href="https://help.amebaownd.com/posts/4337921/"/><meta name="description" content="プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく"/><meta property="fb:app_id" content="522776621188656"/><meta property="og:url" content="https://help.amebaownd.com/posts/4337921"/><meta property="og:type" content="article"/><meta property="og:title" content="プレミアムプランご利用について"/><meta property="og:description" content="プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく"/><meta property="og:image" content="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg"/><meta property="og:site_name" content="Ameba Ownd Help"/><meta property="og:locale" content="ja_JP"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@amebaownd"/><meta name="twitter:title" content="プレミアムプランご利用について | Ameba Ownd Help"/><meta name="twitter:description" content="プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく"/><meta name="twitter:image" content="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg"/><meta name="twitter:app:id:iphone" content="911640835"/><meta name="twitter:app:url:iphone" content="amebaownd://public/sites/16/posts/4337921"/><meta name="twitter:app:id:googleplay" content="jp.co.cyberagent.madrid"/><meta name="twitter:app:url:googleplay" content="amebaownd://public/sites/16/posts/4337921"/><meta name="twitter:app:country" content="US"/><link rel="amphtml" href="https://amp.amebaownd.com/posts/4337921"/><link rel="alternate" type="application/rss+xml" title="Ameba Ownd Help" href="https://help.amebaownd.com/rss.xml"/><link rel="alternate" type="application/atom+xml" title="Ameba Ownd Help" href="https://help.amebaownd.com/atom.xml"/><link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"/><link href="https://static.amebaowndme.com/madrid-frontend/css/user.min-82c20cadc.css" rel="stylesheet" type="text/css"/><link href="https://static.amebaowndme.com/madrid-frontend/css/maggie/index.min-82c20cadc.css" rel="stylesheet" type="text/css"/><link rel="icon" href="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/a32547e31fa823fd228a20c0325d8d19_056cc9f92970cbddd3420766a22c78d2.png?width=32&amp;height=32"/><link rel="apple-touch-icon" href="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/a32547e31fa823fd228a20c0325d8d19_056cc9f92970cbddd3420766a22c78d2.png?width=180&amp;height=180"/><style id="site-colors" charSet="UTF-8">.u-nav-clr {
+  color: #666666;
+}
+.u-nav-bdr-clr {
+  border-color: #666666;
+}
+.u-nav-bg-clr {
+  background-color: #ffffff;
+}
+.u-nav-bg-bdr-clr {
+  border-color: #ffffff;
+}
+.u-site-clr {
+  color: #666666;
+}
+.u-base-bg-clr {
+  background-color: #ffffff;
+}
+.u-btn-clr {
+  color: #aaaaaa;
+}
+.u-btn-clr:hover,
+.u-btn-clr--active {
+  color: rgba(170,170,170, 0.7);
+}
+.u-btn-clr--disabled,
+.u-btn-clr:disabled {
+  color: rgba(170,170,170, 0.5);
+}
+.u-btn-bdr-clr {
+  border-color: #bbbbbb;
+}
+.u-btn-bdr-clr:hover,
+.u-btn-bdr-clr--active {
+  border-color: rgba(187,187,187, 0.7);
+}
+.u-btn-bdr-clr--disabled,
+.u-btn-bdr-clr:disabled {
+  border-color: rgba(187,187,187, 0.5);
+}
+.u-btn-bg-clr {
+  background-color: #bbbbbb;
+}
+.u-btn-bg-clr:hover,
+.u-btn-bg-clr--active {
+  background-color: rgba(187,187,187, 0.7);
+}
+.u-btn-bg-clr--disabled,
+.u-btn-bg-clr:disabled {
+  background-color: rgba(187,187,187, 0.5);
+}
+.u-txt-clr {
+  color: #666666;
+}
+.u-txt-clr--lv1 {
+  color: rgba(102,102,102, 0.7);
+}
+.u-txt-clr--lv2 {
+  color: rgba(102,102,102, 0.5);
+}
+.u-txt-clr--lv3 {
+  color: rgba(102,102,102, 0.3);
+}
+.u-txt-bg-clr {
+  background-color: #efefef;
+}
+.u-lnk-clr,
+.u-clr-area a {
+  color: #3dc49d;
+}
+.u-lnk-clr:visited,
+.u-clr-area a:visited {
+  color: rgba(61,196,157, 0.7);
+}
+.u-lnk-clr:hover,
+.u-clr-area a:hover {
+  color: rgba(61,196,157, 0.5);
+}
+.u-ttl-blk-clr {
+  color: #444444;
+}
+.u-ttl-blk-bdr-clr {
+  border-color: #444444;
+}
+.u-ttl-blk-bdr-clr--lv1 {
+  border-color: #d9d9d9;
+}
+.u-bdr-clr {
+  border-color: #eeeeee;
+}
+.u-acnt-bdr-clr {
+  border-color: #ffffff;
+}
+.u-acnt-bg-clr {
+  background-color: #ffffff;
+}
+body {
+  background-color: #ffffff;
+}
+blockquote {
+  color: rgba(102,102,102, 0.7);
+  border-left-color: #eeeeee;
+};</style><style id="user-css" charSet="UTF-8">/* カバー非表示 */
+.keyvisual {
+   display: none;
+}
+
+/* 日付非表示 */
+.page__main--blog-detail .blog-article__date {
+  display: none;
+}
+
+/* ヘルプTOPの３カラム内だけmargin調整 */
+body[data-page-num="74764"] .grid--col3 .col1-3 > .block__outer {
+  margin-top: 10px;
+}
+body[data-page-num="74764"] .grid--col3 .col1-3 > .block__outer .img {
+  width: 144px;
+  margin: 30px auto 0;
+}
+
+/* アイコン設定 */
+body[data-page-num="74764"] .grid--col3 .col1-3 > .block__outer .txt a.u-lnk-clr {
+  position: relative;
+}
+body[data-page-num="74764"] .grid--col3 .col1-3 > .block__outer .txt a.u-lnk-clr:before {
+  position: absolute;
+  content: "";
+  width: 14px;
+  height: 14px;
+  background: url("https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/16c5d22aae2142ac248999a6982288d4_110142f9e820070b3b31ff2e860551ff.png") 0% 50% no-repeat;
+  left: -20px;
+  top: 3px;
+}
+body[data-page-num="74764"] .page__container .divider {
+  margin: 50px 0 80px;
+}
+body[data-page-num="74764"] .page__container .grid-type--button,
+body[data-page-num="74764"] .page__container .grid-type--button .column,
+body[data-page-num="74764"] .page__container .grid-type--button .btn {
+  padding: 0;
+  margin: 0;
+}
+body[data-page-num="74764"] .page__container .btn__item {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: 40px;
+  line-height: 42px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 2px;
+  background: #999;
+  font-size: 14px;
+  color: #fff;
+}
+body[data-page-num="74764"].pc .page__container .btn__item {
+  height: 80px;
+  line-height: 84px;
+  font-size: 16px;
+}
+body[data-page-num="74764"].pc .grid-type--button {
+  display: inline-block;
+  width: 50%;
+  box-sizing: border-box;
+}
+body[data-page-num="74764"].pc .grid-type--button {
+  padding-right: 20px;
+}
+body[data-page-num="74764"].pc .grid-type--button + .grid-type--button {
+  padding-right: 0;
+  padding-left: 20px;
+}
+.header__logo img {
+  display: none;
+}
+.header__logo a {
+  display: block;
+  height: 80px;
+  background: url(https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/eefcc42aa22c3ad7c5c45087bfa1c7a4_39798602e3b14d2f56405bd6dd2ccf2f.png) center center no-repeat;
+  background-size: auto 100%;
+};</style><style media="screen and (max-width: 800px)" id="user-sp-css" charSet="UTF-8">.page__container {
+  padding-top: 20px;
+}
+.page__container .grid--col3 .col1-3 > .block__outer div {
+  height: 100%;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(odd) {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 60px;
+  width: 60px;
+  float: left;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(odd) .img {
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(odd) .img .img__item {
+  height: 100%;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(odd) .img .img__item > img {
+  max-width: none;
+  height: 100%;
+  width: auto;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(odd) a:focus {
+  outline: none;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #aaa;
+  float: right;
+  height: 60px;
+  margin-left: -65px;
+  padding-left: 65px;
+  width: 100%;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner {
+  border-bottom: 1px solid #ddd;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div {
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100%;
+  margin-left: 5px;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div > p {
+  text-align: left !important;
+  line-height: 1.6em;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div > p:nth-child(1) {
+  font-size: 14px;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div > p:nth-child(1) b {
+  font-weight: normal;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div > p:nth-child(2) {
+  font-size: 12px;
+  position: relative;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .block__inner > div > p:nth-child(3) {
+  display: none;
+  height: 0;
+  width: 0;
+}
+.page__container .grid--col3 .col1-3 > .block__outer:nth-child(even) .txt a.u-lnk-clr:before {
+  display: none;
+}
+.page__container .page-container__side {
+  display: none;
+}
+.header__logo a {
+  height: 50px;
+}
+body[data-page-num="74764"] .page__container .grid--col3:nth-child(1) .col1-3 > .block__outer:nth-child(4) .block__inner {
+  border: none;
+}
+body[data-page-num="74764"] .page__container .grid--col3:nth-child(3) .column:nth-child(2),
+body[data-page-num="74764"] .page__container .grid--col3:nth-child(3) .column:nth-child(3) {
+  display: none;
+}
+body[data-page-num="74764"] .page__container .grid-type--button + .grid-type--button {
+  margin-top: 20px;
+}
+body[data-page-num="74764"] .page__container .grid-type--divider {
+  padding: 0 0 10px
+}
+body[data-page-num="74764"] .page__container .divider {
+  margin: 42px 0 50px;
+};</style><script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            </script></head><body id="mdrd-82c20cadc" class="u-txt-clr u-base-bg-clr theme-maggie plan-basic  "><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PXK9MM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document, 'script', 'dataLayer', 'GTM-PXK9MM');
+            </script><div id="content"><div class="page " data-reactroot=""><div class="page__outer"><div class="page__inner u-base-bg-clr"><aside style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;transform:none !important;display:block !important;position:static !important;padding:0 !important;overflow:visible !important;margin:0 !important"><div class="owndbarHeader  " style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;transform:none !important;display:block !important;position:static !important;padding:0 !important;overflow:visible !important;margin:0 !important"></div></aside><header class="page__header header u-acnt-bdr-clr u-nav-bg-clr"><div class="header__inner"><div class="header__site-info"><div class="header__logo"><div><img alt=""/></div></div></div><nav role="navigation" class="header__nav global-nav u-font js-nav-overflow-criterion is-invisible"><ul class="global-nav__list u-nav-bg-clr u-bdr-clr "><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="ブログ" data-item-page-id="0" data-item-url-path="https://blog.amebaownd.com"><a href="https://blog.amebaownd.com" target="" class="u-nav-clr u-font">ブログ</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="ヘルプ" data-item-page-id="74764" data-item-url-path="./"><a target="" class="u-nav-clr u-font" href="/">ヘルプ</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="よくある質問" data-item-page-id="722" data-item-url-path="./pages/722/faq"><a target="" class="u-nav-clr u-font" href="/pages/722/faq">よくある質問</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="ガイドライン" data-item-page-id="51" data-item-url-path="./pages/51/guidelines"><a target="" class="u-nav-clr u-font" href="/pages/51/guidelines">ガイドライン</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="プレミアムプラン ガイドライン" data-item-page-id="572123" data-item-url-path="./pages/572123/page_201607271547"><a target="" class="u-nav-clr u-font" href="/pages/572123/page_201607271547">プレミアムプラン ガイドライン</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="お問い合わせ" data-item-page-id="835" data-item-url-path="./pages/835/contact"><a target="" class="u-nav-clr u-font" href="/pages/835/contact">お問い合わせ</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="オフィシャルパートナー" data-item-page-id="2365" data-item-url-path="./pages/2365/officialpartner"><a target="" class="u-nav-clr u-font" href="/pages/2365/officialpartner">オフィシャルパートナー</a></li><li class="global-nav__item u-bdr-clr js-nav-item " data-item-title="Logo Guidelines" data-item-page-id="512811" data-item-url-path="./pages/512811/page_201606151605"><a target="" class="u-nav-clr u-font" href="/pages/512811/page_201606151605">Logo Guidelines</a></li></ul></nav><div class="header__icon header-icon"><span class="header-icon__item u-nav-bdr-clr"></span><span class="header-icon__item u-nav-bdr-clr"></span></div></div></header><div class="page__keyvisual keyvisual"><div style="background-image:url(https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/16/a85879de659698383538b86a3f50e717_924241d3e2cbb95da876079db8082a45.png?width=1600)" class="keyvisual__image"></div></div><div class="page__container page-container"><div class="page-container-inner"><div class="page-container__main"><div class="page__content"><div class="page__content-inner u-base-bg-clr"><div role="main" class="page__main page__main--blog-detail"><div class="section"><div class="blog-article-outer"><article class="blog-article"><div class="blog-article__inner"><div class="blog-article__header"><div class="blog-article__date"><time class="blog-post-date u-acnt-bdr-clr u-font" dateTime="2018-08-07T11:30:19Z"><span class="blog-post-date__day u-txt-clr">07</span><span class="blog-post-date__month u-txt-clr">Aug</span><span class="blog-post-date__year u-txt-clr">2018</span></time></div><div class="blog-article__title blog-title"><h1 class="blog-title__text u-txt-clr">プレミアムプランご利用について</h1></div></div><div class="blog-article__content"><div class="blog-article__body blog-body"><div class="blog-body__item"><div class="blog-body__text u-txt-clr u-clr-area" data-block-type="text"><p>プレミアムプランは１サイトに対してのご契約になります。 <br></p><p>※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。</p><p><br></p><h2>独自ドメイン設定</h2><p data-placeholder="">プレミアムプランに加入いただくことで、独自ドメインの設定が可能となります。<br>独自ドメイン設定については<a href="https://help.amebaownd.com/posts/875">こちらのページ</a>をご確認ください。</p><p data-placeholder=""><br></p><h2>ページ追加</h2><p>無料プランでは追加できるページの上限が3ページまでです。<br></p><p>プレミアムプランではページの上限がなくなり無制限にページを追加することが可能になります。</p><p data-placeholder="" class=""><br></p></div></div><div class="blog-body__item"><div class="img img__item--left"><div><img alt=""/></div></div></div><div class="blog-body__item"><div class="blog-body__text u-txt-clr u-clr-area" data-block-type="text"><p data-placeholder="" class=""><br></p><h2 class="">画像ストレージ</h2><p>無料プランでは画像の総アップロード容量が500MBまでです。<br></p><p>プレミアムプランでは画像のアップロード容量が無制限となり画像容量を気にすることなくご利用いただくことが可能になります。</p></div></div><div class="blog-body__item"><div class="img img__item--left"><div><img alt=""/></div></div></div><div class="blog-body__item"><div class="blog-body__text u-txt-clr u-clr-area" data-block-type="text"><p class=""><br></p><p class=""><br></p><h2 class="">広告表示</h2><p class="">無料プランで表示されていた広告がプレミアムプランでは非表示になります。<br></p><p class=""><b><br></b></p><h3>PC</h3></div></div><div class="blog-body__item"><div class="img img__item--left"><div><img alt=""/></div></div></div><div class="blog-body__item"><div class="blog-body__text u-txt-clr u-clr-area" data-block-type="text"><p><br></p><h3>SP</h3></div></div><div class="blog-body__item"><div class="img img__item--left"><div><img alt=""/></div></div></div><div class="blog-body__item"><div class="blog-body__text u-txt-clr u-clr-area" data-block-type="text"><p class=""><b><br></b></p><h2 class="">Ownd ヘッダー／フッター</h2><p class="">プレミアムプランでは Ameba Ownd ロゴが表記されているヘッダー／フッターが非表示になります。<br></p></div></div><div class="blog-body__item"><div class="img img__item--left"><div><img alt=""/></div></div></div></div></div><div class="blog-article__footer"><div class="bloginfo"><div class="bloginfo__category bloginfo-category"><ul class="bloginfo-category__list bloginfo-category-list"><li class="bloginfo-category-list__item"><a class="u-txt-clr u-txt-clr--lv2" href="/posts/categories/1268473">プレミアムプラン<!-- -->(<!-- -->3<!-- -->)</a></li></ul></div></div><div class="reblog-btn-outer"><div class="reblog-btn-body"><button class="reblog-btn"><span class="reblog-btn__inner"><span class="icon icon--reblog2"></span></span></button></div></div></div></div><div class="complementary-outer complementary-outer--slot2"><div class="complementary complementary--text "><div class="block-type--text"><div style="position:relative" class="block__outer block__outer--base u-clr-area"><div style="position:relative" class="block"><div style="position:relative" class="block__inner"><div class="block-txt txt txt--s u-txt-clr"><p style="text-align: center;">使い方についてご不明な点がございましたら<a class="u-lnk-clr" href="https://help.amebaownd.com/pages/835/contact">問い合わせフォーム</a>からお気軽にご質問ください。</p></div></div></div></div></div></div><div class="complementary complementary--shareButton "><div class="block-type--shareButton"><div class="share share--filled share--filled-5"><button class="share__btn--facebook share__btn share__btn--filled"><span aria-hidden="true" class="icon--facebook icon"></span></button><button class="share__btn--twitter share__btn share__btn--filled"><span aria-hidden="true" class="icon--twitter icon"></span></button><button class="share__btn--hatenabookmark share__btn share__btn--filled"><span aria-hidden="true" class="icon--hatenabookmark icon"></span></button><button class="share__btn--pocket share__btn share__btn--filled"><span aria-hidden="true" class="icon--pocket icon"></span></button></div></div></div><div class="complementary complementary--divider "><div class="block-type--divider"><hr class="divider u-bdr-clr"/></div></div><div class="complementary complementary--button "><div class="block-type--button"><div class="btn btn--center"><a target="_blank" class="btn__item u-btn-bdr-clr u-btn-clr u-font btn__item--l" href="https://m.amebaownd.com/#/sites/new">無料ホームページ作成はこちら</a></div></div></div><div class="complementary complementary--relatedPosts "><div class="block-type--relatedPosts"></div></div></div><div class="blog-article__comment"><div class="comment-list js-comment-list" style="display:none"><div><p class="comment-count u-txt-clr u-txt-clr--lv2"><span>0</span>コメント</p><ul><li class="comment-list__item comment-item js-comment-form"><div class="comment-item__body"><form class="comment-item__form u-bdr-clr "><div class="comment-item__form-head"><textarea type="text" id="post-comment" maxLength="1100" placeholder="コメントする..." class="comment-item__input"></textarea></div><div class="comment-item__form-foot"><p class="comment-item__count-outer"><span class="comment-item__count ">1000</span> / 1000</p><button type="submit" disabled="" class="comment-item__submit">投稿</button></div></form></div></li></ul></div></div></div><div class="pswp" tabindex="-1" role="dialog" aria-hidden="true"><div class="pswp__bg"></div><div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button><button class="pswp__button pswp__button--share" title="Share"></button><button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button><button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button><div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div><div class="pswp__button pswp__button--close pswp__close"><span class="pswp__close__item pswp__close"></span><span class="pswp__close__item pswp__close"></span></div><div class="pswp__bottom-bar"><button class="pswp__button pswp__button--arrow--left js-lightbox-arrow" title="Previous (arrow left)"></button><button class="pswp__button pswp__button--arrow--right js-lightbox-arrow" title="Next (arrow right)"></button></div><div class=""><div class="pswp__caption"><div class="pswp__caption"></div><div class="pswp__caption__link"><a class="js-link"></a></div></div></div></div></div></div></article></div></div></div></div></div></div><aside class="page-container__side page-container__side--east"><div class="complementary-outer complementary-outer--slot11"><div class="complementary complementary--keywordSearch complementary--sidebar"><div class="block-type--keywordSearch"><div class="block-type--keyword-search"><h4 class="complementary__heading u-ttl-blk-clr u-font">ヘルプを検索</h4><div class="keyword-search u-bdr-clr"><form action="" name="keywordSearchForm0" novalidate=""><label for="keyword-search-0" aria-hidden="true" class="keyword-search__icon icon icon--search3"></label><input type="search" id="keyword-search-0" placeholder="キーワードを入力" name="keyword" maxLength="100" class="keyword-search__input"/></form></div></div></div></div><div class="complementary complementary--postsCategory complementary--sidebar"><div class="block-type--postsCategory"></div></div><div class="complementary complementary--post complementary--sidebar"><div class="block-type--post"><div class=""><div><h4 class="complementary__heading u-ttl-blk-clr u-font">よく読まれているヘルプ記事</h4></div><div class="blog-list blog-list--summary blog-list--sidebars blog-list--popularMonthly u-bdr-clr"><div class="blog-list__inner"></div></div></div></div></div><div class="complementary complementary--siteFollow complementary--sidebar"><div class="block-type--siteFollow"><div class="site-follow u-bdr-clr"><div class="site-follow__img"><div><img alt=""/></div></div><div class="site-follow__body"><p class="site-follow__title u-txt-clr"><span class="site-follow__title-inner site-follow__title-inner--official">Ameba Ownd Help</span><span class="site-follow__badge"><span aria-hidden="true" class="icon icon--checkmark3"></span></span></p><p class="site-follow__text u-txt-clr u-txt-clr--lv1">Ameba Owndの最新情報や素敵なサイトを作るコツをお届けします。</p><div class="site-follow__btn-outer"><button class="site-follow__btn site-follow__btn--yet"><div class="site-follow__btn-text"><span aria-hidden="true" class="site-follow__icon icon icon--plus"></span>フォロー</div></button></div></div></div></div></div><div class="complementary complementary--facebook complementary--sidebar"><div class="block-type--facebook"><div class="facebook"></div></div></div><div class="complementary complementary--twitter complementary--sidebar"><div class="block-type--twitter"><div class="twitter"></div></div></div><div class="pswp" tabindex="-1" role="dialog" aria-hidden="true"><div class="pswp__bg"></div><div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button><button class="pswp__button pswp__button--share" title="Share"></button><button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button><button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button><div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div><div class="pswp__button pswp__button--close pswp__close"><span class="pswp__close__item pswp__close"></span><span class="pswp__close__item pswp__close"></span></div><div class="pswp__bottom-bar"><button class="pswp__button pswp__button--arrow--left js-lightbox-arrow" title="Previous (arrow left)"></button><button class="pswp__button pswp__button--arrow--right js-lightbox-arrow" title="Next (arrow right)"></button></div><div class=""><div class="pswp__caption"><div class="pswp__caption"></div><div class="pswp__caption__link"><a class="js-link"></a></div></div></div></div></div></div></div></aside></div></div><aside style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;transform:none !important;display:block !important;position:static !important;padding:0 !important;overflow:visible !important;margin:0 !important"><div class="owndbar" style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;transform:none !important;display:block !important;position:static !important;padding:0 !important;overflow:visible !important;margin:0 !important"></div></aside><footer role="contentinfo" class="page__footer footer" style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;overflow:visible !important;position:static !important"><div class="footer__inner u-bdr-clr " style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;overflow:visible !important;display:block !important;transform:none !important"><div class="footer__item u-bdr-clr" style="opacity:1 !important;visibility:visible !important;text-indent:0 !important;overflow:visible !important;display:block !important;transform:none !important"><p class="footer__copyright u-font"><small class="u-txt-clr u-txt-clr--lv2 u-font" style="color:rgba(102,102,102, 0.5) !important">Copyright © CyberAgent, Inc. All Rights Reserved.</small></p><div class="powered-by"><a href="https://www.amebaownd.com" class="powered-by__link"><span class="powered-by__text">Powered by</span><span class="powered-by__logo">AmebaOwnd</span><span class="powered-by__text">無料でホームページをつくろう</span></a></div></div></div></footer></div></div><div class="toast"></div></div></div><img src="//sy.ameblo.jp/sync/?org=sy.amebaownd.com" alt="" style="display:none" width="1" height="1"/><script charSet="UTF-8">window.mdrdEnv="prd";</script><script charSet="UTF-8">window.INITIAL_STATE={"authenticate":{"authCheckCompleted":false,"isAuthorized":false},"blogPostReblogs":{},"category":{},"currentSite":{"fetching":false,"status":null,"site":{}},"shopCategory":{},"categories":{},"notifications":{},"page":{},"paginationTitle":{},"postArchives":{},"postComments":{"4337921":{"data":[],"pagination":{"total":0,"offset":0,"limit":0,"cursors":{"after":"","before":""}},"fetching":false},"submitting":false,"postStatus":null},"postDetail":{"postDetail-blogPostId:4337921":{"fetching":false,"loaded":true,"meta":{"code":200},"data":{"id":"4337921","userId":"18","siteId":"16","status":"publish","title":"プレミアムプランご利用について","contents":[{"type":"text","format":"html","value":"\u003Cp\u003Eプレミアムプランは１サイトに対してのご契約になります。 \u003Cbr\u003E\u003C\u002Fp\u003E\u003Cp\u003E※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。\u003C\u002Fp\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Ch2\u003E独自ドメイン設定\u003C\u002Fh2\u003E\u003Cp data-placeholder=\"\"\u003Eプレミアムプランに加入いただくことで、独自ドメインの設定が可能となります。\u003Cbr\u003E独自ドメイン設定については\u003Ca href=\"https:\u002F\u002Fhelp.amebaownd.com\u002Fposts\u002F875\"\u003Eこちらのページ\u003C\u002Fa\u003Eをご確認ください。\u003C\u002Fp\u003E\u003Cp data-placeholder=\"\"\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Ch2\u003Eページ追加\u003C\u002Fh2\u003E\u003Cp\u003E無料プランでは追加できるページの上限が3ページまでです。\u003Cbr\u003E\u003C\u002Fp\u003E\u003Cp\u003Eプレミアムプランではページの上限がなくなり無制限にページを追加することが可能になります。\u003C\u002Fp\u003E\u003Cp class=\"\" data-placeholder=\"\"\u003E\u003Cbr\u003E\u003C\u002Fp\u003E"},{"type":"image","fit":true,"scale":1,"align":"left","url":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg","link":"","width":1680,"height":940,"target":"_self","lightboxIndex":0},{"type":"text","format":"html","value":"\u003Cp class=\"\" data-placeholder=\"\"\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Ch2 class=\"\"\u003E画像ストレージ\u003C\u002Fh2\u003E\u003Cp\u003E無料プランでは画像の総アップロード容量が500MBまでです。\u003Cbr\u003E\u003C\u002Fp\u003E\u003Cp\u003Eプレミアムプランでは画像のアップロード容量が無制限となり画像容量を気にすることなくご利用いただくことが可能になります。\u003C\u002Fp\u003E"},{"type":"image","fit":true,"scale":1,"align":"left","url":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F32ddad5a3645831e148beaf614491a66_d04fcee2da65c719d0beab7ef9dc3244.jpg","link":"","width":1680,"height":940,"target":"_self","lightboxIndex":1},{"type":"text","format":"html","value":"\u003Cp class=\"\"\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Cp class=\"\"\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Ch2 class=\"\"\u003E広告表示\u003C\u002Fh2\u003E\u003Cp class=\"\"\u003E無料プランで表示されていた広告がプレミアムプランでは非表示になります。\u003Cbr\u003E\u003C\u002Fp\u003E\u003Cp class=\"\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Ch3\u003EPC\u003C\u002Fh3\u003E"},{"type":"image","fit":true,"scale":1,"align":"left","url":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F1e71eead78c7eda47d658064f55ae39d_966515e4358efeeb66f6d8437b47d356.jpg","link":"","width":1680,"height":940,"target":"_self","lightboxIndex":2},{"type":"text","format":"html","value":"\u003Cp\u003E\u003Cbr\u003E\u003C\u002Fp\u003E\u003Ch3\u003ESP\u003C\u002Fh3\u003E"},{"type":"image","fit":true,"scale":1,"align":"left","url":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F9c61d8864d05508df0bca63d0e4d1c01_95aef499edb8903dda81f9e6d82f16e1.jpg","link":"","width":1680,"height":940,"target":"_self","lightboxIndex":3},{"type":"text","format":"html","value":"\u003Cp class=\"\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C\u002Fb\u003E\u003C\u002Fp\u003E\u003Ch2 class=\"\"\u003EOwnd ヘッダー／フッター\u003C\u002Fh2\u003E\u003Cp class=\"\"\u003Eプレミアムプランでは Ameba Ownd ロゴが表記されているヘッダー／フッターが非表示になります。\u003Cbr\u003E\u003C\u002Fp\u003E"},{"type":"image","fit":true,"scale":1,"align":"left","url":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Ff5b6abadc18f77f31c5a3e7cb6bef19d_2d0c36801d4eedec8b6ee35a27570bf6.jpg","link":"","width":1680,"height":1193,"target":"_self","lightboxIndex":4}],"urlPath":"","publishedUrl":"https:\u002F\u002Fhelp.amebaownd.com\u002Fposts\u002F4337921","ogpDescription":"","ogpImageUrl":"","contentFiltered":"","viewCount":0,"commentCount":0,"reblogCount":0,"prevBlogPost":{"id":"103689","title":"ホームのページを変更する","summary":"ホームのページとは、サイトのトップページとして、サイトの訪問者が最初に訪れるページです。ホームのページに設定されているページは下画像のようなアイコンが表示されています。","imageUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Fadf3a781640e91555db9a7f6c8842328_c524cac679dce8eb4b7d2a6ccb9b0458.jpg","publishedAt":"2018-08-10T01:55:37Z"},"nextBlogPost":{"id":"119857","title":"ページを公開する、非公開で保存する","summary":"ページ一覧からページを公開する、非公開で保存する方法をご紹介します。①管理画面左メニュー、\"ページ編集\"をクリックします。","imageUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Ff6f3fb00de110f0eb67552969cb71833_f963c2f4923752b91d7a2a717ae5a838.jpg","publishedAt":"2018-08-07T02:35:01Z"},"rebloggedPost":false,"blogCategories":[{"id":"1268473","siteId":"16","label":"プレミアムプラン","publishedCount":3,"createdAt":"2018-06-08T02:06:51Z","updatedAt":"2021-08-22T02:54:18Z"}],"user":{"id":"18","nickname":"Ameba Ownd","description":"","official":false,"photoUrl":"https:\u002F\u002Fprofile-api.ameba.jp\u002Fv2\u002Fas\u002Ffed21b88ec20b68e2efbddd02778c416c42dbe24\u002FprofileImage?cat=300","followingCount":1,"createdAt":"2015-01-28T03:44:14Z","updatedAt":"2026-05-25T05:18:10Z"},"updateUser":{"id":"670072","nickname":"ocs7777","description":"","official":false,"photoUrl":"https:\u002F\u002Fprofile-api.ameba.jp\u002Fv2\u002Fas\u002Fqedcf21441924359a9e23915a972423aec4fede7\u002FprofileImage?cat=300","followingCount":1,"createdAt":"2018-07-11T07:09:15Z","updatedAt":"2026-01-30T07:49:20Z"},"comments":{"pagination":{"total":0,"offset":0,"limit":0,"cursors":{"after":"","before":""}},"data":[]},"publishedAt":"2018-08-07T11:30:19Z","createdAt":"2018-06-08T02:08:35Z","updatedAt":"2024-07-24T03:08:27Z","version":12}}},"postList":{},"shopList":{},"shopItemDetail":{},"pureAd":{},"keywordSearch":{},"proxyFrame":{"loaded":false},"relatedPostList":{},"route":{"route":{"path":"\u002Fposts\u002F:blog_post_id","component":function Connect(props, context) {
+        _classCallCheck(this, Connect);
+
+        var _this = _possibleConstructorReturn(this, _Component.call(this, props, context));
+
+        _this.version = version;
+        _this.store = props.store || context.store;
+
+        (0, _invariant2["default"])(_this.store, 'Could not find "store" in either the context or ' + ('props of "' + connectDisplayName + '". ') + 'Either wrap the root component in a <Provider>, ' + ('or explicitly pass "store" as a prop to "' + connectDisplayName + '".'));
+
+        var storeState = _this.store.getState();
+        _this.state = { storeState: storeState };
+        _this.clearCache();
+        return _this;
+      },"route":{"id":"0","type":"blog_post_detail","idForType":"0","title":"","urlPath":"\u002Fposts\u002F:blog_post_id","isHomePage":false}},"params":{"blog_post_id":"4337921"},"location":{"pathname":"\u002Fposts\u002F4337921","search":"","hash":"","action":"POP","key":"gwuma9","query":{}}},"siteConfig":{"tagline":"","title":"Ameba Ownd Help","copyright":"Copyright © CyberAgent, Inc. All Rights Reserved.","iconUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Fb1182ca9ef6ce6a523378735874efeea_5b78d126a1a99a4c67849fb19bcf7344.png","logoUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Feefcc42aa22c3ad7c5c45087bfa1c7a4_39798602e3b14d2f56405bd6dd2ccf2f.png","coverImageUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Fa85879de659698383538b86a3f50e717_924241d3e2cbb95da876079db8082a45.png","homePageId":"74764","siteId":"16","siteCategoryIds":[],"themeId":"13","theme":"maggie","shopId":"","openedShop":false,"shop":{"law":{"userType":"","corporateName":"","firstName":"","lastName":"","zipCode":"","prefecture":"","address":"","telNo":"","aboutContact":"","aboutPrice":"","aboutPay":"","aboutService":"","aboutReturn":""},"privacyPolicy":{"operator":"","contact":"","collectAndUse":"","restrictionToThirdParties":"","supervision":"","disclosure":"","cookie":""}},"user":{"id":"18","nickname":"Ameba Ownd","photoUrl":"","createdAt":"2015-01-28T03:44:14Z","updatedAt":"2026-05-25T05:18:10Z"},"commentApproval":"reject","plan":{"id":"2","name":"Plus","ownd_header":false,"powered_by":false,"pure_ads":true},"verifiedType":"company","navigations":[{"title":"ブログ","urlPath":"https:\u002F\u002Fblog.amebaownd.com","target":"_self","pageId":"0"},{"title":"ヘルプ","urlPath":".\u002F","target":"_self","pageId":"74764"},{"title":"よくある質問","urlPath":".\u002Fpages\u002F722\u002Ffaq","target":"_self","pageId":"722"},{"title":"ガイドライン","urlPath":".\u002Fpages\u002F51\u002Fguidelines","target":"_self","pageId":"51"},{"title":"プレミアムプラン ガイドライン","urlPath":".\u002Fpages\u002F572123\u002Fpage_201607271547","target":"_self","pageId":"572123"},{"title":"お問い合わせ","urlPath":".\u002Fpages\u002F835\u002Fcontact","target":"_self","pageId":"835"},{"title":"オフィシャルパートナー","urlPath":".\u002Fpages\u002F2365\u002Fofficialpartner","target":"_self","pageId":"2365"},{"title":"Logo Guidelines","urlPath":".\u002Fpages\u002F512811\u002Fpage_201606151605","target":"_self","pageId":"512811"}],"routings":[{"id":"0","type":"blog","idForType":"0","title":"","urlPath":"\u002Fposts\u002Fpage\u002F:page_num","isHomePage":false},{"id":"0","type":"blog_post_archive","idForType":"0","title":"","urlPath":"\u002Fposts\u002Farchives\u002F:yyyy\u002F:mm","isHomePage":false},{"id":"0","type":"blog_post_archive","idForType":"0","title":"","urlPath":"\u002Fposts\u002Farchives\u002F:yyyy\u002F:mm\u002Fpage\u002F:page_num","isHomePage":false},{"id":"0","type":"blog_post_category","idForType":"0","title":"","urlPath":"\u002Fposts\u002Fcategories\u002F:category_id","isHomePage":false},{"id":"0","type":"blog_post_category","idForType":"0","title":"","urlPath":"\u002Fposts\u002Fcategories\u002F:category_id\u002Fpage\u002F:page_num","isHomePage":false},{"id":"0","type":"author","idForType":"0","title":"","urlPath":"\u002Fauthors\u002F:user_id","isHomePage":false},{"id":"0","type":"author","idForType":"0","title":"","urlPath":"\u002Fauthors\u002F:user_id\u002Fpage\u002F:page_num","isHomePage":false},{"id":"0","type":"blog_post_category","idForType":"0","title":"","urlPath":"\u002Fposts\u002Fcategory\u002F:category_id","isHomePage":false},{"id":"0","type":"blog_post_category","idForType":"0","title":"","urlPath":"\u002Fposts\u002Fcategory\u002F:category_id\u002Fpage\u002F:page_num","isHomePage":false},{"id":"0","type":"blog_post_detail","idForType":"0","title":"","urlPath":"\u002Fposts\u002F:blog_post_id","isHomePage":false},{"id":"0","type":"keywordSearch","idForType":"0","title":"","urlPath":"\u002Fsearch\u002Fq\u002F:query","isHomePage":false},{"id":"0","type":"keywordSearch","idForType":"0","title":"","urlPath":"\u002Fsearch\u002Fq\u002F:query\u002Fpage\u002F:page_num","isHomePage":false},{"id":"2318530","type":"static","idForType":"0","title":"ページ","urlPath":"\u002Fpages\u002F2318530\u002F","isHomePage":false},{"id":"2318530","type":"static","idForType":"0","title":"ページ","urlPath":"\u002Fpages\u002F2318530\u002F:url_path","isHomePage":false},{"id":"2184333","type":"static","idForType":"0","title":"キャンペーンのお知らせ","urlPath":"\u002Fpages\u002F2184333\u002F","isHomePage":false},{"id":"2184333","type":"static","idForType":"0","title":"キャンペーンのお知らせ","urlPath":"\u002Fpages\u002F2184333\u002F:url_path","isHomePage":false},{"id":"2088164","type":"static","idForType":"0","title":"REQU","urlPath":"\u002Fpages\u002F2088164\u002F","isHomePage":false},{"id":"2088164","type":"static","idForType":"0","title":"REQU","urlPath":"\u002Fpages\u002F2088164\u002F:url_path","isHomePage":false},{"id":"2088126","type":"static","idForType":"0","title":"ページ","urlPath":"\u002Fpages\u002F2088126\u002F","isHomePage":false},{"id":"2088126","type":"static","idForType":"0","title":"ページ","urlPath":"\u002Fpages\u002F2088126\u002F:url_path","isHomePage":false},{"id":"572123","type":"static","idForType":"0","title":"プレミアムプラン ガイドライン","urlPath":"\u002Fpages\u002F572123\u002F","isHomePage":false},{"id":"572123","type":"static","idForType":"0","title":"プレミアムプラン ガイドライン","urlPath":"\u002Fpages\u002F572123\u002F:url_path","isHomePage":false},{"id":"512811","type":"static","idForType":"0","title":"Logo Guidelines","urlPath":"\u002Fpages\u002F512811\u002F","isHomePage":false},{"id":"512811","type":"static","idForType":"0","title":"Logo Guidelines","urlPath":"\u002Fpages\u002F512811\u002F:url_path","isHomePage":false},{"id":"128620","type":"static","idForType":"0","title":"ヘルプセンター","urlPath":"\u002Fpages\u002F128620\u002F","isHomePage":false},{"id":"128620","type":"static","idForType":"0","title":"ヘルプセンター","urlPath":"\u002Fpages\u002F128620\u002F:url_path","isHomePage":false},{"id":"84562","type":"blog","idForType":"0","title":"ブログ","urlPath":"\u002Fpages\u002F84562\u002F","isHomePage":false},{"id":"84562","type":"blog","idForType":"0","title":"ブログ","urlPath":"\u002Fpages\u002F84562\u002F:url_path","isHomePage":false},{"id":"74764","type":"static","idForType":"0","title":"ヘルプ","urlPath":"\u002Fpages\u002F74764\u002F","isHomePage":true},{"id":"74764","type":"static","idForType":"0","title":"ヘルプ","urlPath":"\u002Fpages\u002F74764\u002F:url_path","isHomePage":true},{"id":"2365","type":"static","idForType":"0","title":"オフィシャルパートナー","urlPath":"\u002Fpages\u002F2365\u002F","isHomePage":false},{"id":"2365","type":"static","idForType":"0","title":"オフィシャルパートナー","urlPath":"\u002Fpages\u002F2365\u002F:url_path","isHomePage":false},{"id":"1287","type":"static","idForType":"0","title":"FAQ","urlPath":"\u002Fpages\u002F1287\u002F","isHomePage":false},{"id":"1287","type":"static","idForType":"0","title":"FAQ","urlPath":"\u002Fpages\u002F1287\u002F:url_path","isHomePage":false},{"id":"835","type":"static","idForType":"0","title":"お問い合わせ","urlPath":"\u002Fpages\u002F835\u002F","isHomePage":false},{"id":"835","type":"static","idForType":"0","title":"お問い合わせ","urlPath":"\u002Fpages\u002F835\u002F:url_path","isHomePage":false},{"id":"722","type":"blog","idForType":"0","title":"よくある質問","urlPath":"\u002Fpages\u002F722\u002F","isHomePage":false},{"id":"722","type":"blog","idForType":"0","title":"よくある質問","urlPath":"\u002Fpages\u002F722\u002F:url_path","isHomePage":false},{"id":"51","type":"static","idForType":"0","title":"ガイドライン","urlPath":"\u002Fpages\u002F51\u002F","isHomePage":false},{"id":"51","type":"static","idForType":"0","title":"ガイドライン","urlPath":"\u002Fpages\u002F51\u002F:url_path","isHomePage":false},{"id":"74764","type":"static","idForType":"0","title":"ヘルプ","urlPath":"\u002F","isHomePage":true}],"siteColors":{"navigationBackground":"#ffffff","navigationText":"#666666","siteTitleText":"#666666","background":"#ffffff","buttonBackground":"#bbbbbb","buttonText":"#aaaaaa","text":"#666666","link":"#3dc49d","titleBlock":"#444444","border":"#eeeeee","accent":"#ffffff"},"wovnioAttribute":"","useAuthorBlock":false,"twitterHashtags":"","createdAt":"2015-01-28T03:44:36Z","seoTitle":"Ameba Ownd Help (アメーバ オウンド ヘルプ)","isPreview":false,"siteCategory":[],"previewPost":null,"previewShopItem":null,"hasAmebaIdConnection":false,"serverTime":"2026-06-13T12:47:10Z","complementaries":{"1":{"contents":{"layout":{"rows":[{"columns":[{"blocks":[]}]}]}},"created_at":"2015-08-24T02:32:04Z","updated_at":"2016-02-16T05:21:14Z"},"2":{"contents":{"layout":{"rows":[{"columns":[{"blocks":[{"type":"text","format":"html","value":"\u003Cp style=\"text-align: center;\"\u003E使い方についてご不明な点がございましたら\u003Ca href=\"https:\u002F\u002Fhelp.amebaownd.com\u002Fpages\u002F835\u002Fcontact\" class=\"u-lnk-clr\"\u003E問い合わせフォーム\u003C\u002Fa\u003Eからお気軽にご質問ください。\u003C\u002Fp\u003E","editableKey":"1-0","editor":"rich"},{"type":"shareButton","design":"filled","providers":["facebook","twitter","hatenabookmark","pocket","line"],"editableKey":"1-0"},{"type":"divider","editableKey":"1-1"},{"type":"button","title":"無料ホームページ作成はこちら","align":"center","size":"l","url":"https:\u002F\u002Fm.amebaownd.com\u002F#\u002Fsites\u002Fnew","target":"_blank","editableKey":"1-3"},{"type":"relatedPosts","showHeading":true,"limit":6,"layoutType":"listm","heading":"関連記事","editableKey":"1-1"}]}]}]}},"created_at":"2015-08-24T02:32:04Z","updated_at":"2016-02-16T05:21:14Z"},"3":{"contents":{"layout":{"rows":[{"columns":[{"blocks":[]}]}]}},"created_at":"2015-08-24T02:32:04Z","updated_at":"2016-02-16T05:21:14Z"},"4":{"contents":{"layout":{"rows":[{"columns":[{"blocks":[]}]}]}},"created_at":"2016-02-16T05:18:56Z","updated_at":"2016-02-16T05:21:14Z"},"11":{"contents":{"layout":{"rows":[{"columns":[{"blocks":[{"type":"keywordSearch","showHeading":true,"heading":"ヘルプを検索"},{"type":"postsCategory","showHeading":true,"showCount":true,"design":"list","heading":"カテゴリーから探す"},{"type":"post","mode":"summary","title":"よく読まれているヘルプ記事","buttonTitle":"もっと見る","limit":5,"layoutType":"sidebars","categoryIds":"0","showTitle":true,"showButton":false,"sortType":"popularMonthly"},{"type":"siteFollow","description":"Ameba Owndの最新情報や素敵なサイトを作るコツをお届けします。"},{"id":"amebaownd","type":"facebook","html":"\n\t\t\u003Cdiv class=\"fb-page\" data-href=\"https:\u002F\u002Fwww.facebook.com\u002Famebaownd?ref=ts&fref=ts\" data-width=\"300\"  data-small-header=\"false\" data-adapt-container-width=\"false\" data-hide-cover=\"false\" data-show-facepile=\"true\" data-show-posts=\"false\"\u003E\u003Cdiv class=\"fb-xfbml-parse-ignore\"\u003E\u003Cblockquote cite=\"https:\u002F\u002Fwww.facebook.com\u002Famebaownd?ref=ts&fref=ts\"\u003E\u003Ca href=\"https:\u002F\u002Fwww.facebook.com\u002Famebaownd?ref=ts&fref=ts\"\u003E\u003C\u002Fa\u003E\u003C\u002Fblockquote\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E","url":"https:\u002F\u002Fwww.facebook.com\u002Famebaownd?ref=ts&fref=ts","name":"Ameba Ownd","showPosts":false,"showFaces":true,"pageType":"widget","width":300,"height":300,"limit":3,"mode":"summary","showButton":true,"showTitle":true,"buttonTitle":"Facebookヘ","title":"Facebook"},{"type":"twitter","html":"\u003Ca class=\"twitter-timeline\"   href=\"https:\u002F\u002Ftwitter.com\u002Ftwitterapi\" data-widget-id=\"539605779540488192\" data-screen-name=\"amebaownd\"\u003E\u003C\u002Fa\u003E\u003Cscript\u003E!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=\u002F^http:\u002F.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\":\u002F\u002Fplatform.twitter.com\u002Fwidgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\u003C\u002Fscript\u003E","url":"","width":300,"height":300,"limit":3,"mode":"summary","pageType":"widget","showButton":true,"showTitle":true,"buttonTitle":"Twitterヘ","title":"Twitter","screenName":"amebaownd"}]}]}]}},"created_at":"2015-09-17T12:16:36Z","updated_at":"2015-12-14T08:18:55Z"}},"siteColorsCss":".u-nav-clr {\n  color: #666666;\n}\n.u-nav-bdr-clr {\n  border-color: #666666;\n}\n.u-nav-bg-clr {\n  background-color: #ffffff;\n}\n.u-nav-bg-bdr-clr {\n  border-color: #ffffff;\n}\n.u-site-clr {\n  color: #666666;\n}\n.u-base-bg-clr {\n  background-color: #ffffff;\n}\n.u-btn-clr {\n  color: #aaaaaa;\n}\n.u-btn-clr:hover,\n.u-btn-clr--active {\n  color: rgba(170,170,170, 0.7);\n}\n.u-btn-clr--disabled,\n.u-btn-clr:disabled {\n  color: rgba(170,170,170, 0.5);\n}\n.u-btn-bdr-clr {\n  border-color: #bbbbbb;\n}\n.u-btn-bdr-clr:hover,\n.u-btn-bdr-clr--active {\n  border-color: rgba(187,187,187, 0.7);\n}\n.u-btn-bdr-clr--disabled,\n.u-btn-bdr-clr:disabled {\n  border-color: rgba(187,187,187, 0.5);\n}\n.u-btn-bg-clr {\n  background-color: #bbbbbb;\n}\n.u-btn-bg-clr:hover,\n.u-btn-bg-clr--active {\n  background-color: rgba(187,187,187, 0.7);\n}\n.u-btn-bg-clr--disabled,\n.u-btn-bg-clr:disabled {\n  background-color: rgba(187,187,187, 0.5);\n}\n.u-txt-clr {\n  color: #666666;\n}\n.u-txt-clr--lv1 {\n  color: rgba(102,102,102, 0.7);\n}\n.u-txt-clr--lv2 {\n  color: rgba(102,102,102, 0.5);\n}\n.u-txt-clr--lv3 {\n  color: rgba(102,102,102, 0.3);\n}\n.u-txt-bg-clr {\n  background-color: #efefef;\n}\n.u-lnk-clr,\n.u-clr-area a {\n  color: #3dc49d;\n}\n.u-lnk-clr:visited,\n.u-clr-area a:visited {\n  color: rgba(61,196,157, 0.7);\n}\n.u-lnk-clr:hover,\n.u-clr-area a:hover {\n  color: rgba(61,196,157, 0.5);\n}\n.u-ttl-blk-clr {\n  color: #444444;\n}\n.u-ttl-blk-bdr-clr {\n  border-color: #444444;\n}\n.u-ttl-blk-bdr-clr--lv1 {\n  border-color: #d9d9d9;\n}\n.u-bdr-clr {\n  border-color: #eeeeee;\n}\n.u-acnt-bdr-clr {\n  border-color: #ffffff;\n}\n.u-acnt-bg-clr {\n  background-color: #ffffff;\n}\nbody {\n  background-color: #ffffff;\n}\nblockquote {\n  color: rgba(102,102,102, 0.7);\n  border-left-color: #eeeeee;\n}","siteFont":{"id":"5","name":"Verdana"},"siteCss":"\u002F* カバー非表示 *\u002F\n.keyvisual {\n   display: none;\n}\n\n\u002F* 日付非表示 *\u002F\n.page__main--blog-detail .blog-article__date {\n  display: none;\n}\n\n\u002F* ヘルプTOPの３カラム内だけmargin調整 *\u002F\nbody[data-page-num=\"74764\"] .grid--col3 .col1-3 \u003E .block__outer {\n  margin-top: 10px;\n}\nbody[data-page-num=\"74764\"] .grid--col3 .col1-3 \u003E .block__outer .img {\n  width: 144px;\n  margin: 30px auto 0;\n}\n\n\u002F* アイコン設定 *\u002F\nbody[data-page-num=\"74764\"] .grid--col3 .col1-3 \u003E .block__outer .txt a.u-lnk-clr {\n  position: relative;\n}\nbody[data-page-num=\"74764\"] .grid--col3 .col1-3 \u003E .block__outer .txt a.u-lnk-clr:before {\n  position: absolute;\n  content: \"\";\n  width: 14px;\n  height: 14px;\n  background: url(\"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F16c5d22aae2142ac248999a6982288d4_110142f9e820070b3b31ff2e860551ff.png\") 0% 50% no-repeat;\n  left: -20px;\n  top: 3px;\n}\nbody[data-page-num=\"74764\"] .page__container .divider {\n  margin: 50px 0 80px;\n}\nbody[data-page-num=\"74764\"] .page__container .grid-type--button,\nbody[data-page-num=\"74764\"] .page__container .grid-type--button .column,\nbody[data-page-num=\"74764\"] .page__container .grid-type--button .btn {\n  padding: 0;\n  margin: 0;\n}\nbody[data-page-num=\"74764\"] .page__container .btn__item {\n  display: block;\n  width: 100%;\n  max-width: none;\n  height: 40px;\n  line-height: 42px;\n  padding: 0;\n  margin: 0;\n  border: none;\n  border-radius: 2px;\n  background: #999;\n  font-size: 14px;\n  color: #fff;\n}\nbody[data-page-num=\"74764\"].pc .page__container .btn__item {\n  height: 80px;\n  line-height: 84px;\n  font-size: 16px;\n}\nbody[data-page-num=\"74764\"].pc .grid-type--button {\n  display: inline-block;\n  width: 50%;\n  box-sizing: border-box;\n}\nbody[data-page-num=\"74764\"].pc .grid-type--button {\n  padding-right: 20px;\n}\nbody[data-page-num=\"74764\"].pc .grid-type--button + .grid-type--button {\n  padding-right: 0;\n  padding-left: 20px;\n}\n.header__logo img {\n  display: none;\n}\n.header__logo a {\n  display: block;\n  height: 80px;\n  background: url(https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Feefcc42aa22c3ad7c5c45087bfa1c7a4_39798602e3b14d2f56405bd6dd2ccf2f.png) center center no-repeat;\n  background-size: auto 100%;\n}","siteSpCss":".page__container {\n  padding-top: 20px;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer div {\n  height: 100%;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(odd) {\n  -webkit-box-sizing: border-box;\n     -moz-box-sizing: border-box;\n          box-sizing: border-box;\n  height: 60px;\n  width: 60px;\n  float: left;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(odd) .img {\n  height: 100%;\n  width: 100%;\n  margin-top: 0;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(odd) .img .img__item {\n  height: 100%;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(odd) .img .img__item \u003E img {\n  max-width: none;\n  height: 100%;\n  width: auto;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(odd) a:focus {\n  outline: none;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) {\n  -webkit-box-sizing: border-box;\n     -moz-box-sizing: border-box;\n          box-sizing: border-box;\n  color: #aaa;\n  float: right;\n  height: 60px;\n  margin-left: -65px;\n  padding-left: 65px;\n  width: 100%;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner {\n  border-bottom: 1px solid #ddd;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div {\n  display: -webkit-flex;\n  display: -moz-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-flex-direction: column;\n     -moz-box-orient: vertical;\n     -moz-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n  -webkit-justify-content: center;\n     -moz-box-pack: center;\n      -ms-flex-pack: center;\n          justify-content: center;\n  height: 100%;\n  margin-left: 5px;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div \u003E p {\n  text-align: left !important;\n  line-height: 1.6em;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div \u003E p:nth-child(1) {\n  font-size: 14px;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div \u003E p:nth-child(1) b {\n  font-weight: normal;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div \u003E p:nth-child(2) {\n  font-size: 12px;\n  position: relative;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .block__inner \u003E div \u003E p:nth-child(3) {\n  display: none;\n  height: 0;\n  width: 0;\n}\n.page__container .grid--col3 .col1-3 \u003E .block__outer:nth-child(even) .txt a.u-lnk-clr:before {\n  display: none;\n}\n.page__container .page-container__side {\n  display: none;\n}\n.header__logo a {\n  height: 50px;\n}\nbody[data-page-num=\"74764\"] .page__container .grid--col3:nth-child(1) .col1-3 \u003E .block__outer:nth-child(4) .block__inner {\n  border: none;\n}\nbody[data-page-num=\"74764\"] .page__container .grid--col3:nth-child(3) .column:nth-child(2),\nbody[data-page-num=\"74764\"] .page__container .grid--col3:nth-child(3) .column:nth-child(3) {\n  display: none;\n}\nbody[data-page-num=\"74764\"] .page__container .grid-type--button + .grid-type--button {\n  margin-top: 20px;\n}\nbody[data-page-num=\"74764\"] .page__container .grid-type--divider {\n  padding: 0 0 10px\n}\nbody[data-page-num=\"74764\"] .page__container .divider {\n  margin: 42px 0 50px;\n}","meta":{"Title":"プレミアムプランご利用について | Ameba Ownd Help (アメーバ オウンド ヘルプ)","Description":"プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく","Keywords":"","Noindex":false,"Nofollow":false,"CanonicalUrl":"https:\u002F\u002Fhelp.amebaownd.com\u002Fposts\u002F4337921","AmpHtml":"https:\u002F\u002Famp.amebaownd.com\u002Fposts\u002F4337921","DisabledFragment":false,"OgMeta":{"Type":"article","Title":"プレミアムプランご利用について","Description":"プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく","Image":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg","SiteName":"Ameba Ownd Help","Locale":"ja_JP"},"DeepLinkMeta":{"Ios":{"Url":"amebaownd:\u002F\u002Fpublic\u002Fsites\u002F16\u002Fposts\u002F4337921","AppStoreId":"911640835","AppName":"Ameba Ownd"},"Android":{"Url":"amebaownd:\u002F\u002Fpublic\u002Fsites\u002F16\u002Fposts\u002F4337921","AppName":"Ameba Ownd","Package":"jp.co.cyberagent.madrid"},"WebUrl":"https:\u002F\u002Fhelp.amebaownd.com\u002Fposts\u002F4337921"},"TwitterCard":{"Type":"summary_large_image","Site":"@amebaownd","Creator":"","Title":"プレミアムプランご利用について | Ameba Ownd Help","Description":"プレミアムプランは１サイトに対してのご契約になります。 ※Owndでは１アカウントで複数のサイトを作成できますが、サイトごとにプランをお選びいただけます。独自ドメイン設定プレミアムプランに加入いただく","Image":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg"},"TwitterAppCard":{"CountryCode":"US","IPhoneAppId":"911640835","AndroidAppPackageName":"jp.co.cyberagent.madrid","CustomUrl":"amebaownd:\u002F\u002Fpublic\u002Fsites\u002F16\u002Fposts\u002F4337921"},"SiteName":"Ameba Ownd Help","ImageUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002F6b0ebc1184da7e7d11d361f0edb3ffea_f01390f86011b2def348c9441fc11583.jpg","FacebookAppId":"522776621188656","InstantArticleId":"1481115848824916","FaviconUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Fa32547e31fa823fd228a20c0325d8d19_056cc9f92970cbddd3420766a22c78d2.png?width=32&height=32","AppleTouchIconUrl":"https:\u002F\u002Fcdn.amebaowndme.com\u002Fmadrid-prd\u002Fmadrid-web\u002Fimages\u002Fsites\u002F16\u002Fa32547e31fa823fd228a20c0325d8d19_056cc9f92970cbddd3420766a22c78d2.png?width=180&height=180","RssItems":[{"title":"Ameba Ownd Help","url":"https:\u002F\u002Fhelp.amebaownd.com\u002Frss.xml"}],"AtomItems":[{"title":"Ameba Ownd Help","url":"https:\u002F\u002Fhelp.amebaownd.com\u002Fatom.xml"}]},"googleConfig":{"TrackingCode":"UA-56421123-3","SiteVerificationCode":""},"lanceTrackingUrl":"\u002F\u002Fsy.ameblo.jp\u002Fsync\u002F?org=sy.amebaownd.com","FRM_ID_SIGNUP":"c.ownd-sites_r.ownd-sites_16","landingPageParams":{"domain":"help.amebaownd.com","protocol":"https","urlPath":"\u002Fposts\u002F4337921"}},"siteFollow":{},"siteServiceTokens":{},"snsFeed":{},"toastMessages":{"messages":[]},"user":{"loaded":false,"me":{}},"userSites":{"fetching":null,"sites":[]},"userSiteCategories":{}};</script><script src="https://static.amebaowndme.com/madrid-metro/js/maggie-04784c0c9d35f63efeec.js" charSet="UTF-8"></script><div><style type="text/css">
+  #helpSiteReturnBtn {
+    height:26px;
+    width:35px;
+    color:#999;
+    font-size:16px;
+    padding:5px;
+    border-radius:5px;
+    background-color:rgba(255,255,255,0.9);
+    border:1px solid #ddd;
+    position:fixed;
+    left: 5px;
+    bottom: 5px;
+    display: flex;
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+  }
+  #helpSiteReturnBtn:focus {
+    outline: none;
+  }
+  #helpSiteReturnBtn:before {
+    content: '\F30D';
+    font-family: owndicons;
+  }
+  body[data-page-num="74764"] #helpSiteReturnBtn {
+    display: none;
+  }
+</style>
+<a id="helpSiteReturnBtn" href="#" onclick="history.go(-1)" title="戻る"></a>
+<!-- AI Messenger -->
+<script>window.aimWidgetInitialConfigs={projectId:"Pcum33b2l2ct703k171c0",tenantId:"ameblo-2ypq6",tenantName:"ameblo",type:"floating",forceSupportAs:"",design:"classic",mode:"normal",dedicatedEnvConfig:""};</script><script src="https://w.ai-messenger-static.app/aim.js"></script>
+<script>
+  // お問い合わせリンククリック時
+  const link = document.querySelector('a[href="https://cs.ameba.jp/inquiry/?serviceId=85"]');
+  if (link) {
+    link.addEventListener('click', function(event) {
+      if (!aiMessenger) {
+        return;
+      }
+      event.preventDefault();
+      event.stopPropagation();
+      // Webチャット起動
+      aiMessenger.open();
+    });
+  }
+</script></div><style charSet="UTF-8">      .u-font {
+        font-family: Verdana, Geneva, sans-serif;
+      }    </style></body></html>
