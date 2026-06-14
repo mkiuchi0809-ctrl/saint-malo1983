@@ -1,0 +1,12 @@
+.git
+.wrangler
+node_modules
+.claude
+.gitignore
+.assetsignore
+wrangler.jsonc
+.deploy-trigger
+README.md
+*.xlsx
+*.pdf
+*.log

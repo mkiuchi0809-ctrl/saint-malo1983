@@ -11,3 +11,10 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Cloudflare wrangler local state
+.wrangler/
+
+# User's menu source files (not part of the website; exceed Workers 25MiB limit)
+*.xlsx
+*.pdf
