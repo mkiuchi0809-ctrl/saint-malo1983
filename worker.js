@@ -112,23 +112,51 @@ function b64url(bytes) {
    /api/menu  — スプレッドシートのメニューを取得
    ============================================================ */
 async function handleMenu(request, env, ctx) {
+  const reqUrl = new URL(request.url);
+  const debug = reqUrl.searchParams.has('debug');
+  const fresh = debug || reqUrl.searchParams.has('fresh');
+
   if (!env.GOOGLE_SA_EMAIL || !env.GOOGLE_SA_PRIVATE_KEY || !env.SHEET_ID) {
     return json({ ok: false, error: 'not_configured', items: [] });
   }
   const cache = caches.default;
   const cacheKey = new Request('https://cache.local/api/menu');
-  const hit = await cache.match(cacheKey);
-  if (hit) return hit;
+  if (!fresh) {
+    const hit = await cache.match(cacheKey);
+    if (hit) return hit;
+  }
 
   try {
     const token = await getGoogleToken(env);
-    const tab = env.SHEET_TAB || 'メニュー';
+
+    // 実際のタブ名を取得（SHEET_TABが無効でも先頭シートにフォールバック）
+    let titles = [], metaErr = null;
+    try {
+      const metaRes = await fetch(
+        `https://sheets.googleapis.com/v4/spreadsheets/${env.SHEET_ID}?fields=sheets.properties.title`,
+        { headers: { Authorization: 'Bearer ' + token } });
+      const meta = await metaRes.json();
+      metaErr = meta.error ? (meta.error.message || 'meta_error') : null;
+      titles = (meta.sheets || []).map(s => s.properties && s.properties.title).filter(Boolean);
+    } catch (e) { metaErr = String((e && e.message) || e); }
+
+    const wanted = env.SHEET_TAB || 'メニュー';
+    const tab = titles.indexOf(wanted) >= 0 ? wanted : (titles[0] || wanted);
+
     const url = `https://sheets.googleapis.com/v4/spreadsheets/${env.SHEET_ID}/values/${encodeURIComponent(tab)}`;
     const res = await fetch(url, { headers: { Authorization: 'Bearer ' + token } });
     const data = await res.json();
 
+    if (debug) {
+      return json({
+        debug: true, titles: titles, wantedTab: wanted, tabUsed: tab,
+        metaError: metaErr, valueError: data.error || null,
+        rowCount: (data.values || []).length, header: (data.values || [])[0] || null
+      });
+    }
+
     if (!data.values || !data.values.length) {
-      return json({ ok: false, error: (data.error && data.error.message) || 'no_values', items: [] });
+      return json({ ok: false, error: (data.error && data.error.message) || 'no_values', items: [], titles: titles, tabUsed: tab });
     }
 
     const rows = data.values;
