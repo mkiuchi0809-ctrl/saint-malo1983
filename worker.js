@@ -248,10 +248,12 @@ async function handleImg(env, ctx, name) {
     const lr = await fetch(listUrl, { headers: { Authorization: 'Bearer ' + token } });
     const ld = await lr.json();
     const files = ld.files || [];
-    const want = name.toLowerCase();
+    // NFC正規化＋小文字化（Mac/iPhoneの濁点分解(NFD)対策）
+    const norm = function (s) { return String(s).normalize('NFC').toLowerCase(); };
+    const stripExt = function (s) { return norm(s).replace(/\.[^.]+$/, ''); };
+    const want = norm(name);
     const wantBase = want.replace(/\.[^.]+$/, '');
-    const stripExt = function (s) { return s.toLowerCase().replace(/\.[^.]+$/, ''); };
-    var file = files.filter(function (f) { return f.name.toLowerCase() === want; })[0]
+    var file = files.filter(function (f) { return norm(f.name) === want; })[0]
       || files.filter(function (f) { return stripExt(f.name) === wantBase; })[0];
     if (!file) return new Response('not found', { status: 404 });
 
