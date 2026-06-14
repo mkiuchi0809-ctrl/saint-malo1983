@@ -23,6 +23,7 @@ export default {
 
     if (p === '/api/news') return handleNews(request, env, ctx);
     if (p === '/api/menu') return handleMenu(request, env, ctx);
+    if (p === '/api/img' || p === '/api/img/') return handleImgList(env);
     if (p.startsWith('/api/img/')) {
       return handleImg(env, ctx, decodeURIComponent(p.slice('/api/img/'.length)));
     }
@@ -200,6 +201,29 @@ async function handleMenu(request, env, ctx) {
     return out;
   } catch (err) {
     return json({ ok: false, error: String(err && err.message || err), items: [] });
+  }
+}
+
+/* ============================================================
+   /api/img  — ドライブフォルダ内のファイル名一覧（診断用）
+   ============================================================ */
+async function handleImgList(env) {
+  if (!env.GOOGLE_SA_EMAIL || !env.DRIVE_FOLDER_ID) {
+    return json({ ok: false, error: 'not_configured', files: [] });
+  }
+  try {
+    const token = await getGoogleToken(env);
+    const q = "'" + env.DRIVE_FOLDER_ID + "' in parents and trashed=false";
+    const url = 'https://www.googleapis.com/drive/v3/files?q=' + encodeURIComponent(q)
+      + '&fields=files(name,mimeType)&pageSize=200';
+    const r = await fetch(url, { headers: { Authorization: 'Bearer ' + token } });
+    const d = await r.json();
+    return json({
+      ok: !d.error, error: d.error ? (d.error.message || 'drive_error') : null,
+      count: (d.files || []).length, files: (d.files || []).map(function (f) { return f.name; })
+    });
+  } catch (e) {
+    return json({ ok: false, error: String((e && e.message) || e), files: [] });
   }
 }
 
