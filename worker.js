@@ -235,18 +235,24 @@ async function handleImg(env, ctx, name) {
     return new Response('not found', { status: 404 });
   }
   const cache = caches.default;
-  const cacheKey = new Request('https://cache.local/api/img/' + encodeURIComponent(name));
+  const cacheKey = new Request('https://cache.local/api/img/' + encodeURIComponent(name.toLowerCase()));
   const hit = await cache.match(cacheKey);
   if (hit) return hit;
 
   try {
     const token = await getGoogleToken(env);
-    const safe = name.replace(/'/g, "\\'");
-    const q = `'${env.DRIVE_FOLDER_ID}' in parents and name='${safe}' and trashed=false`;
-    const listUrl = 'https://www.googleapis.com/drive/v3/files?q=' + encodeURIComponent(q) + '&fields=files(id,mimeType,name)';
+    // フォルダ内を一覧し、拡張子・大文字小文字を無視して一致を探す（料理名だけでもOK）
+    const q = "'" + env.DRIVE_FOLDER_ID + "' in parents and trashed=false";
+    const listUrl = 'https://www.googleapis.com/drive/v3/files?q=' + encodeURIComponent(q)
+      + '&fields=files(id,mimeType,name)&pageSize=200';
     const lr = await fetch(listUrl, { headers: { Authorization: 'Bearer ' + token } });
     const ld = await lr.json();
-    const file = ld.files && ld.files[0];
+    const files = ld.files || [];
+    const want = name.toLowerCase();
+    const wantBase = want.replace(/\.[^.]+$/, '');
+    const stripExt = function (s) { return s.toLowerCase().replace(/\.[^.]+$/, ''); };
+    var file = files.filter(function (f) { return f.name.toLowerCase() === want; })[0]
+      || files.filter(function (f) { return stripExt(f.name) === wantBase; })[0];
     if (!file) return new Response('not found', { status: 404 });
 
     const mr = await fetch('https://www.googleapis.com/drive/v3/files/' + file.id + '?alt=media',
